@@ -1,4 +1,4 @@
-### 👋👋 안녕하세요!!!👋👋👋👋👋
+### 👋👋 안녕하세요!!!👋👋
 
 <!--
 **ats166/ats166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
