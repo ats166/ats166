@@ -1,5 +1,11 @@
 ### 👋👋 안녕하세요!!!👋👋
 
+
+<div>
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ats16)](https://solved.ac/ats16)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ats166)](https://github.com/ats166/github-readme-stats)
+</div>
+
 <!--
 **ats166/ats166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
