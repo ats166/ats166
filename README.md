@@ -10,8 +10,9 @@
   
   <hr>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ats166)](https://github.com/ats166/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ats166)](https://github.com/ats166/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ats166&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ats166&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
   <h3> :sweet_potato: ats166's Tech Blog :sweet_potato: </h3>
   
