@@ -2,7 +2,7 @@
   
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Welcome%20ats166's%20Github&fontSize=20) -->
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=FECC00&height=300&section=header&text=Welcome%20ats166's%20Github%20&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FECC00&height=300&section=header&text=Welcome%20ats166's%20Github%20&fontSize=50&fontColor=ffffff)
 <hr>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ats16)](https://solved.ac/ats16)
