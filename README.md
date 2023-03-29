@@ -56,9 +56,9 @@
 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/post CSS-DD3A0A?style=flat-square&logo=postCSS&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
 
   <h3> :hammer: ats166's Using tools :hammer: </h3>
   
