@@ -3,12 +3,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Welcome%20ats166's%20Github&fontSize=20) -->
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FECC00&height=300&section=header&text=Welcome%20ats166's%20Github%20&fontSize=50&fontColor=ffffff)
-<hr>
+<hr> 백준
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ats16)](https://solved.ac/ats16)
 <img src="http://mazandi.herokuapp.com/api?handle=ats16&theme=warm"/>
   
-  <hr> 백준
+  <hr> 
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ats166&show_icons=true&theme=gruvbox)
