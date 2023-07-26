@@ -8,7 +8,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ats16)](https://solved.ac/ats16)
 <img src="http://mazandi.herokuapp.com/api?handle=ats16&theme=warm"/>
   
-  <hr>
+  <hr> 백준
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ats166&show_icons=true&theme=gruvbox)
